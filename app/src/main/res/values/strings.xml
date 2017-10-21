@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Email Application</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="view">View</string>
+    <string name="send">Send</string>
+
+    <string name="wrong_email">Wrong input EMAIL format.</string>
+    <string name="wrong_photo">Please, take a photo.</string>
+    <string name="wrong_phone">Wrong input PHONE format. Must starts with + and got 11 digits</string>
+    <string name="wrong_password">Wrong input PASSWORD format/ Min 6 symbols and contains digits and letters</string>
+</resources>
